@@ -3,3 +3,38 @@ body {
     background: rgb(241,230,234);
     background: radial-gradient(circle, rgba(241,230,234,1) 0%, rgba(219,210,255,1) 97%);
 }
+.container {
+
+    width: 95%;
+    background-color: white;
+    margin: 5% auto; 
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.heading-design{
+    background: rgb(241,230,234);
+    background: radial-gradient(circle, rgba(241,230,234,1) 0%, rgba(219,210,255,1) 97%);
+    height: 600px;
+    width: 90%;
+    margin: 5% auto; 
+    border-radius: 20px;
+}
+.left h2{
+    font-size: 60px;
+    font-style: bold;
+    padding-left: 30px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Helvetica Neue', sans-serif; /* Use the 'Helvetica Neue' font family */
+    font-weight: bold; 
+}
+.left p{
+    font-size: 15px;
+    font-style: bold;
+    padding-left: 30px;
+    font-family: 'Helvetica Neue', sans-serif; /* Use the 'Helvetica Neue' font family */
+
+}
+.right{
+    padding-left: 170px;
+}
